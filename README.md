@@ -2,13 +2,13 @@
 
 ### TO Run Demo
 
--git clone <repo>
+- git clone https://github.com/Krishna7852/Mobile-Store-ReactJs.git
 
--cd folder-name
+- cd Mobile-Store-ReactJs
 
--npm install 
+- npm install 
 
--npm start
+- npm start
 
 
 ## Snap 
@@ -19,4 +19,4 @@
 
 ## Author
 
--Krishna bhamare
+- `Krishna bhamare`
